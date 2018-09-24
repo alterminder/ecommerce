@@ -1,0 +1,39 @@
+{
+  "name": "commerce-wp",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "redux-devtools": "^3.4.1"
+  },
+  "dependencies": {
+    "ajv": "^6.5.4",
+    "history": "^4.7.2",
+    "lodash": "^4.17.10",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.4",
+    "react-chat-widget": "^2.1.4-1",
+    "react-dom": "^16.4.1",
+    "react-ga": "^2.5.3",
+    "react-helmet": "^5.2.0",
+    "react-image-gallery": "^0.8.9",
+    "react-redux": "^5.0.7",
+    "react-redux-toastr": "^7.3.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "^1.1.4",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^0.81.1",
+    "whatwg-fetch": "^2.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
